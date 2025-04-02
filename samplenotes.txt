@@ -1,0 +1,2 @@
+Python is the best programming language.
+Error handling is the  best to avoid the crashing of the program.
